@@ -60,7 +60,7 @@
     "href": "team.html#current-steering-committee-members-with-affiliation",
     "title": "EEGManySteps - Team",
     "section": "(current) Steering Committee Members (with affiliation)",
-    "text": "(current) Steering Committee Members (with affiliation)\n\nMelanie Klapprott (Carl von Ossietzky University of Oldenburg)\nLiyu Cao (Zhejiang University, China)\nElena Cesnaite (Münster University, Germany)\nAitana Grasso Cladera (Osnabrück University, Germany)\nSein Jeung (TU Berlin, Germany)\nSimon Ladouce (KU Leuven, Belgium)\nJanna Protzak (Emory University, Germany)\nJulian Reiser (IfADO, Germany)\nYahya Seyed Shirazi (SCCN, USA)\nJulius Welzel (Kiel University, Germany)\nAnna Wunderlich (TU Berlin, Germany)\nSodiq Fakorede (Kansas Medical Center, USA)"
+    "text": "(current) Steering Committee Members (with affiliation)\n\nMelanie Klapprott (Oldenburg University, Germany)\nLiyu Cao (Zhejiang University, China)\nElena Cesnaite (Münster University, Germany)\nAitana Grasso Cladera (Osnabrück University, Germany)\nSein Jeung (TU Berlin, Germany)\nSimon Ladouce (KU Leuven, Belgium)\nJanna Protzak (Emory University, Germany)\nJulian Reiser (IfADO, Germany)\nYahya Seyed Shirazi (SCCN, USA)\nJulius Welzel (Kiel University, Germany)\nAnna Wunderlich (TU Berlin, Germany)\nSodiq Fakorede (Kansas Medical Center, USA)"
   },
   {
     "objectID": "team.html#current-advisory-board-members-with-affiliation",
@@ -75,5 +75,12 @@
     "title": "EEGManySteps - Team",
     "section": "Role Definitions",
     "text": "Role Definitions\n\nSteering Committee\nExpected to attend monthly meetings and take on specific tasks within the project. Minimal requirement: Authorship in one or more peer-reviewed MoBI paper or extensive experience in similar open science projects. Minimum active period at least 1 year.\n\n\nAdvisory Board\nProvide background support and feedback during quarterly/biannual meetings to guide the project’s direction. Minimal requirement: First or last author in a peer-reviewed MoBI/Biomechanics paper or extensive experience in similar open science projects. Minimum active period at least 1 year.\nSome additional roles will become relevant later in the project:\n[Data Set Contributors] Provide access to EEG datasets recorded in mobile settings. Detailed requirements are still to be determined. Minimal requirement: Responsible for the acquisition, curation, or formatting of mobile EEG data.\n[Analysts] Participate in analyzing specific research questions related to mobile EEG data. Minimal requirement: Experience with the analysis of biomechanical or MoBI data."
+  },
+  {
+    "objectID": "team.html#past-contributors",
+    "href": "team.html#past-contributors",
+    "title": "EEGManySteps - Team",
+    "section": "Past contributors",
+    "text": "Past contributors\nNadine Jacobsen (SC, Oldenburg University, Germany) Yu-Fang Yang (SC, FU Berlin, Germany)"
   }
 ]
