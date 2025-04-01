@@ -6,16 +6,15 @@ This page serves an an overview of individuals who have agreed to support to the
 The definition of roles and responsibilities can be found at the bottom of this page.
 
 ## (current) Steering Committee Members (with affiliation)
+- Melanie Klapprott (Carl von Ossietzky University of Oldenburg)
 - Liyu Cao (Zhejiang University, China)
 - Elena Cesnaite (Münster University, Germany)
 - Aitana Grasso Cladera (Osnabrück University, Germany)
-- Nadine Jacobsen (Oldenburg University, Germany)
 - Sein Jeung (TU Berlin, Germany)
 - Simon Ladouce (KU Leuven, Belgium)
 - Janna Protzak (Emory University, Germany)
 - Julian Reiser (IfADO, Germany)
 - Yahya Seyed Shirazi (SCCN, USA)
-- Yu-Fang Yang (FU Berlin, Germany)
 - Julius Welzel (Kiel University, Germany)
 - Anna Wunderlich (TU Berlin, Germany)
 - Sodiq Fakorede (Kansas Medical Center, USA)
