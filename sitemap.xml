@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://EEGManySteps.github.io/eegmanysteps/datasets.html</loc>
-    <lastmod>2025-04-09T11:36:36.778Z</lastmod>
-  </url>
-  <url>
     <loc>https://EEGManySteps.github.io/eegmanysteps/news.html</loc>
-    <lastmod>2025-04-09T11:36:36.785Z</lastmod>
+    <lastmod>2025-05-23T12:57:12.835Z</lastmod>
   </url>
   <url>
     <loc>https://EEGManySteps.github.io/eegmanysteps/index.html</loc>
-    <lastmod>2025-04-09T11:36:36.784Z</lastmod>
+    <lastmod>2025-05-23T12:57:12.835Z</lastmod>
+  </url>
+  <url>
+    <loc>https://EEGManySteps.github.io/eegmanysteps/datasets.html</loc>
+    <lastmod>2025-05-23T12:57:12.829Z</lastmod>
   </url>
   <url>
     <loc>https://EEGManySteps.github.io/eegmanysteps/team.html</loc>
-    <lastmod>2025-04-09T11:36:36.785Z</lastmod>
+    <lastmod>2025-05-23T12:57:12.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://EEGManySteps.github.io/eegmanysteps/CODE_OF_CONDUCT.html</loc>
+    <lastmod>2025-05-23T12:57:12.828Z</lastmod>
   </url>
 </urlset>
