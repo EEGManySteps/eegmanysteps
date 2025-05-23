@@ -1,4 +1,4 @@
-# EEGManySteps Code of Conduct
+# DRAFT: EEGManySteps Code of Conduct
 
 ## Our Commitment
 
